@@ -8,4 +8,4 @@ This repository is made for collecting training material related to javascript. 
 ## Contents
 - [Object Oriented Javascript](https://github.com/ozgunbal/intermediate-javascript-training/blob/master/oop-js)
 - [Functional Programming in Javacript](https://github.com/ozgunbal/intermediate-javascript-training/blob/master/functional)
-- Asynchronous Javascript
+- [Asynchronous Javascript](https://github.com/ozgunbal/intermediate-javascript-training/blob/master/async)
